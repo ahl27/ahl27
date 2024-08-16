@@ -1,6 +1,6 @@
 ## Latest Blogs
-<! -- BLOG-POST-LIST:START -->
-<! -- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **ahl27/ahl27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
