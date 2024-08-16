@@ -1,0 +1,18 @@
+## This workflow is adapted from:
+## https://blog.sachinchaurasiya.dev/how-to-show-your-latest-blogs-on-github-profile
+
+name: Add blog posts to GitHub Profile
+on:
+  schedule: # Run workflow automatically
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 10
+          feed_list: "https://www.ahl27.com/feed.xml"
