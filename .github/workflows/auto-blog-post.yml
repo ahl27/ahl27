@@ -3,6 +3,7 @@
 
 name: Add blog posts to GitHub Profile
 on:
+  push:
   schedule: # Run workflow automatically
     - cron: "0 0 * * *"
 
