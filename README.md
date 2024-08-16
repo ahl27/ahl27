@@ -8,7 +8,7 @@ I occasionally write blog posts about the things I've been up to lately, which y
 
 For more information, check out [my website](https://ahl27.com).
 
-## Latest Blogs
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Automated R Testing and Coverage on GitHub &lpar;without Codecov!&rpar;](https://www.ahl27.com/posts/2024/08/github-unit/)
 - [Clustering without RAM](https://www.ahl27.com/posts/2024/03/oomcluster/)
