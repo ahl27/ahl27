@@ -1,3 +1,13 @@
+# Hi there!
+
+I'm Aidan, and I'm currently a PhD candidate in Biomedical Informatics at the University of Pittsburgh. 
+
+I'm planning to graduate in Summer 2025. 
+I'm currently working on clustering massive graphs/networks and helping maintain the [Biostrings](https://github.com/Bioconductor/Biostrings) R package.
+I occasionally write blog posts about the things I've been up to lately, which you can check out below!
+
+For more information, check out [my website](https://ahl27.com).
+
 ## Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Automated R Testing and Coverage on GitHub &lpar;without Codecov!&rpar;](https://www.ahl27.com/posts/2024/08/github-unit/)
