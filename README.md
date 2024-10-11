@@ -10,6 +10,7 @@ For more information, check out [my website](https://ahl27.com).
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Some &lpar;somewhat&rpar; surprising findings on C’s `fseek`](https://www.ahl27.com/posts/2024/10/fseek/)
 - [Converting vectors to dendrograms in R](https://www.ahl27.com/posts/2024/08/dend-bst/)
 - [Automated R Testing and Coverage on GitHub &lpar;without Codecov!&rpar;](https://www.ahl27.com/posts/2024/08/github-unit/)
 - [Clustering without RAM](https://www.ahl27.com/posts/2024/03/oomcluster/)
@@ -19,7 +20,6 @@ For more information, check out [my website](https://ahl27.com).
 - [`dendrapply` and How To Contribute to R](https://www.ahl27.com/posts/2023/11/r-project-sprint/)
 - [Refactoring R’s `dendrapply`](https://www.ahl27.com/posts/2023/02/dendrapply/)
 - [Finishing the 6502 Emulator](https://www.ahl27.com/posts/2023/02/6502-emu3/)
-- [Writing a 6502 Emulator, part 2](https://www.ahl27.com/posts/2023/01/6502-emu2/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
