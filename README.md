@@ -10,7 +10,7 @@ For more information, check out [my website](https://ahl27.com).
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Fast File I/O, Part 2: Why is `fwrite` so slow?](https://www.ahl27.com/posts/2024/12/fseek/)
+- [Fast File I/O, Part 2: Why is `fwrite` so slow?](https://www.ahl27.com/posts/2024/12/fwrite-io/)
 - [Fast File I/O, Part 1: Some &lpar;somewhat&rpar; surprising findings on C’s `fseek`](https://www.ahl27.com/posts/2024/10/fseek/)
 - [Converting vectors to dendrograms in R](https://www.ahl27.com/posts/2024/08/dend-bst/)
 - [Automated R Testing and Coverage on GitHub &lpar;without Codecov!&rpar;](https://www.ahl27.com/posts/2024/08/github-unit/)
