@@ -10,8 +10,9 @@ For more information, check out [my website](https://ahl27.com).
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Fast File I/O, Part 2: Why is `fwrite` so slow?](https://www.ahl27.com/posts/2024/12/fwrite-io/)
-- [Fast File I/O, Part 1: Some &lpar;somewhat&rpar; surprising findings on C’s `fseek`](https://www.ahl27.com/posts/2024/10/fseek/)
+- [Efficient File I/O, Part 3: Loser Trees and External Sorting](https://www.ahl27.com/posts/2024/12/loser-trees-io/)
+- [Efficient File I/O, Part 2: Why is `fwrite` so slow?](https://www.ahl27.com/posts/2024/12/fwrite-io/)
+- [Efficient File I/O, Part 1: Some &lpar;somewhat&rpar; surprising findings on C’s `fseek`](https://www.ahl27.com/posts/2024/10/fseek/)
 - [Converting vectors to dendrograms in R](https://www.ahl27.com/posts/2024/08/dend-bst/)
 - [Automated R Testing and Coverage on GitHub &lpar;without Codecov!&rpar;](https://www.ahl27.com/posts/2024/08/github-unit/)
 - [Clustering without RAM](https://www.ahl27.com/posts/2024/03/oomcluster/)
@@ -19,7 +20,6 @@ For more information, check out [my website](https://ahl27.com).
 - [Fortran, C, and R](https://www.ahl27.com/posts/2024/01/fortrancr/)
 - [Forth for R](https://www.ahl27.com/posts/2023/11/froth/)
 - [`dendrapply` and How To Contribute to R](https://www.ahl27.com/posts/2023/11/r-project-sprint/)
-- [Refactoring R’s `dendrapply`](https://www.ahl27.com/posts/2023/02/dendrapply/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
