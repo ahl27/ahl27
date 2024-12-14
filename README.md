@@ -10,6 +10,7 @@ For more information, check out [my website](https://ahl27.com).
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Efficient File I/O, Part 4: In-Place External Sorting](https://www.ahl27.com/posts/2024/12/inplace-external-io/)
 - [Efficient File I/O, Part 3: Loser Trees and External Sorting](https://www.ahl27.com/posts/2024/12/loser-trees-io/)
 - [Efficient File I/O, Part 2: Why is `fwrite` so slow?](https://www.ahl27.com/posts/2024/12/fwrite-io/)
 - [Efficient File I/O, Part 1: Some &lpar;somewhat&rpar; surprising findings on C’s `fseek`](https://www.ahl27.com/posts/2024/10/fseek/)
@@ -19,7 +20,6 @@ For more information, check out [my website](https://ahl27.com).
 - [Writing a Random Forest from Scratch](https://www.ahl27.com/posts/2024/01/randomforest/)
 - [Fortran, C, and R](https://www.ahl27.com/posts/2024/01/fortrancr/)
 - [Forth for R](https://www.ahl27.com/posts/2023/11/froth/)
-- [`dendrapply` and How To Contribute to R](https://www.ahl27.com/posts/2023/11/r-project-sprint/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
