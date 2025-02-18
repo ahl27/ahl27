@@ -10,6 +10,7 @@ For more information, check out [my website](https://ahl27.com).
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [So what is it like to interview at Meta/Facebook?](https://www.ahl27.com/posts/2025/02/meta-interview/)
 - [Efficient File I/O, Part 4: In-Place External Sorting](https://www.ahl27.com/posts/2024/12/inplace-external-io/)
 - [Efficient File I/O, Part 3: Loser Trees and External Sorting](https://www.ahl27.com/posts/2024/12/loser-trees-io/)
 - [Efficient File I/O, Part 2: Why is `fwrite` so slow?](https://www.ahl27.com/posts/2024/12/fwrite-io/)
@@ -19,7 +20,6 @@ For more information, check out [my website](https://ahl27.com).
 - [Clustering without RAM](https://www.ahl27.com/posts/2024/03/oomcluster/)
 - [Writing a Random Forest from Scratch](https://www.ahl27.com/posts/2024/01/randomforest/)
 - [Fortran, C, and R](https://www.ahl27.com/posts/2024/01/fortrancr/)
-- [Forth for R](https://www.ahl27.com/posts/2023/11/froth/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
