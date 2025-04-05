@@ -10,6 +10,7 @@ For more information, check out [my website](https://ahl27.com).
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Story of a Sneaky Bug](https://www.ahl27.com/posts/2025/04/overflow-bug/)
 - [The ‘Research Scientist’ Role at Meta: What is it, exactly?](https://www.ahl27.com/posts/2025/03/meta-rs-types/)
 - [So what is it like to interview at Meta/Facebook? &lpar;Research Scientist&rpar;](https://www.ahl27.com/posts/2025/02/meta-interview/)
 - [Efficient File I/O, Part 4: In-Place External Sorting](https://www.ahl27.com/posts/2024/12/inplace-external-io/)
@@ -19,7 +20,6 @@ For more information, check out [my website](https://ahl27.com).
 - [Converting vectors to dendrograms in R](https://www.ahl27.com/posts/2024/08/dend-bst/)
 - [Automated R Testing and Coverage on GitHub &lpar;without Codecov!&rpar;](https://www.ahl27.com/posts/2024/08/github-unit/)
 - [Clustering without RAM](https://www.ahl27.com/posts/2024/03/oomcluster/)
-- [Writing a Random Forest from Scratch](https://www.ahl27.com/posts/2024/01/randomforest/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
