@@ -2,7 +2,7 @@
 
 I'm Aidan, and I'm currently a PhD candidate in Biomedical Informatics at the University of Pittsburgh. 
 
-I'm planning to graduate in Summer 2025. 
+I'm planning to graduate in Summer 2025, after which I'll join Meta as a Research Scientist. 
 My current projects include working on clustering massive graphs/networks and helping maintain the [Biostrings](https://github.com/Bioconductor/Biostrings) R package.
 I occasionally write blog posts about the things I've been up to lately, which you can check out below!
 
