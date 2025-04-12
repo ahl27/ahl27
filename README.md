@@ -10,6 +10,7 @@ For more information, check out [my website](https://ahl27.com).
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The ExoLabel Post: Clustering Massive Networks with Limited Resources](https://www.ahl27.com/posts/2025/04/exolabel-full/)
 - [A Story of a Sneaky Bug](https://www.ahl27.com/posts/2025/04/overflow-bug/)
 - [The ‘Research Scientist’ Role at Meta: What is it, exactly?](https://www.ahl27.com/posts/2025/03/meta-rs-types/)
 - [So what is it like to interview at Meta/Facebook? &lpar;Research Scientist&rpar;](https://www.ahl27.com/posts/2025/02/meta-interview/)
@@ -19,7 +20,6 @@ For more information, check out [my website](https://ahl27.com).
 - [Efficient File I/O, Part 1: Some &lpar;somewhat&rpar; surprising findings on C’s `fseek`](https://www.ahl27.com/posts/2024/10/fseek/)
 - [Converting vectors to dendrograms in R](https://www.ahl27.com/posts/2024/08/dend-bst/)
 - [Automated R Testing and Coverage on GitHub &lpar;without Codecov!&rpar;](https://www.ahl27.com/posts/2024/08/github-unit/)
-- [Clustering without RAM](https://www.ahl27.com/posts/2024/03/oomcluster/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
