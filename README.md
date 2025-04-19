@@ -10,6 +10,7 @@ For more information, check out [my website](https://ahl27.com).
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My SWE Interview Experiences: Amazon vs. Meta vs. Google](https://www.ahl27.com/posts/2025/04/faang-interviews/)
 - [The ExoLabel Post: Clustering Massive Networks with Limited Resources](https://www.ahl27.com/posts/2025/04/exolabel-full/)
 - [A Story of a Sneaky Bug](https://www.ahl27.com/posts/2025/04/overflow-bug/)
 - [The ‘Research Scientist’ Role at Meta: What is it, exactly?](https://www.ahl27.com/posts/2025/03/meta-rs-types/)
@@ -19,7 +20,6 @@ For more information, check out [my website](https://ahl27.com).
 - [Efficient File I/O, Part 2: Why is `fwrite` so slow?](https://www.ahl27.com/posts/2024/12/fwrite-io/)
 - [Efficient File I/O, Part 1: Some &lpar;somewhat&rpar; surprising findings on C’s `fseek`](https://www.ahl27.com/posts/2024/10/fseek/)
 - [Converting vectors to dendrograms in R](https://www.ahl27.com/posts/2024/08/dend-bst/)
-- [Automated R Testing and Coverage on GitHub &lpar;without Codecov!&rpar;](https://www.ahl27.com/posts/2024/08/github-unit/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
