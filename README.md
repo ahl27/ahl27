@@ -1,9 +1,8 @@
 # Hi there!
 
-I'm Aidan, and I'm currently a PhD candidate in Biomedical Informatics at the University of Pittsburgh. 
+I'm Aidan, and I'm currently a Software Engineer at Google working on large-scale storage infrastructure with [Google Colossus](https://cloud.google.com/blog/products/storage-data-transfer/how-colossus-optimizes-data-placement-for-performance). I completed my PhD in Bioinformatics at the University of Pittsburgh School of Medicine, focusing on developing scalable algorithms to process large-scale genomics datasets.
 
-I'm planning to graduate in Summer 2025, after which I'll join Meta as a Research Scientist. 
-My current projects include working on clustering massive graphs/networks and helping maintain the [Biostrings](https://github.com/Bioconductor/Biostrings) R package.
+My current projects include helping maintain the [Biostrings](https://github.com/Bioconductor/Biostrings) R package.
 I occasionally write blog posts about the things I've been up to lately, which you can check out below!
 
 For more information, check out [my website](https://ahl27.com).
